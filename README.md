@@ -19,6 +19,6 @@ Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Se
 
 #### Disciplinas/habilidades que considero indispensables:
 |Historia humana|Ecologia |Filisofia|Programar|Finanzas| Data Science|
-| :---------- |:-------------:| :-------------:|:-------------: |-------------: |
+| :---------- |:-------------:| :-------------:|:-------------: |-------------: |-------------: |
 
 
