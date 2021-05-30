@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Jgmavalos/Jgmavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <center>
 <h3>
