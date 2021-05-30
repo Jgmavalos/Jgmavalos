@@ -14,8 +14,6 @@ Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Se
 </center>
 
 #### Verbos claves: 
-<center> <h4>IDCAV</h4></center>
-
 |IDENTIFICAR|DECOMPONER |CUANTIFICAR|ANALIZAR| VISUALIZAR|
 | :---------- |:-------------:| :-------------:|:-------------: |-------------: |
 
