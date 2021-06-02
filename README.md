@@ -14,12 +14,12 @@ Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Se
 </center>
 
 #### Verbos claves: 
-|IDENTIFICAR|DECOMPONER |CUANTIFICAR|ANALIZAR| VISUALIZAR|
-| :---------- |:-------------:| :-------------:|:-------------: |-------------: |
+|IDENTIFICAR|DECOMPONER|CUANTIFICAR|ANALIZAR|VISUALIZAR|CONSTRUIR|
+| :---------- |:-------------:| :-------------:|:-------------: |:-------------: |:-------------: |
 
 
 #### Disciplinas/habilidades que considero indispensables:
-|Historia humana|Ecologia |Filisofia|Programar|Finanzas| Data Science|
-| :---------- |:-------------:| :-------------:|:-------------: |-------------: |-------------: |
+|Historia humana|Ecologia|Filisofia|Arte|Programar|Finanzas|Data Science|
+| :---------- |:-------------:| :-------------:|:-------------: |-------------: |-------------: |:-------------: |
 
 
