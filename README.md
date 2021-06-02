@@ -14,7 +14,7 @@ Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Se
 </center>
 
 #### Verbos claves: 
-|IDENTIFICAR|DECOMPONER|CUANTIFICAR|ANALIZAR|VISUALIZAR|CONSTRUIR|
+|IDENTIFICAR|DECOMPONER|CUANTIFICAR|VISUALIZAR|ANALIZAR|CONSTRUIR|
 | :---------- |:-------------:| :-------------:|:-------------: |:-------------: |:-------------: |
 
 
