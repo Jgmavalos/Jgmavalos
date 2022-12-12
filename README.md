@@ -9,7 +9,7 @@ My name is Jhon Gesmer
   
 I am from Colombia.
 
-Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Sede Medellín](https://medellin.unal.edu.co/). Disfruto de comprender y apreciar los ciclos de la vida del planeta Tierra. 
+Soy estudiante de Ingenieria Forestal en la [Universidad Nacional de Colombia Sede Medellín](https://medellin.unal.edu.co/). Disfruto de comprender y apreciar los ciclos de la vida de nuestro planeta. 
   
   
 </center>
